@@ -1,4 +1,4 @@
-# Simple application to test 2FA using google Authenticator. 
+# Simple application to test 2FA using Google Authenticator. 
 
 ### This is a simple NodeJs app implemented in ExpressJs framework to test 2FA with simple ReactJs UI.
 ______________________________________________________________________
