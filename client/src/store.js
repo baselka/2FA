@@ -1,10 +1,8 @@
 import {createStore} from 'redux'
-import users from './json/users.json'
 
 const initialState = {
   name: '2FA DECENTERNET TEST',
   description: 'Simple app for testing 2FA',
-  user: users[0],
   url: '',
   layout: 'layout-1',
   direction: 'ltr',
